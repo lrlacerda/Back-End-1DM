@@ -1,0 +1,15 @@
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\Projeto Calcular Idade.csproj.AssemblyReference.cache
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\Projeto Calcular Idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\Projeto Calcular Idade.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\Projeto Calcular Idade.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\Projeto Calcular Idade.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\bin\Debug\net7.0\Projeto Calcular Idade.exe
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\bin\Debug\net7.0\Projeto Calcular Idade.deps.json
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\bin\Debug\net7.0\Projeto Calcular Idade.runtimeconfig.json
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\bin\Debug\net7.0\Projeto Calcular Idade.dll
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\bin\Debug\net7.0\Projeto Calcular Idade.pdb
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\Projeto Calcular Idade.dll
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\refint\Projeto Calcular Idade.dll
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\Projeto Calcular Idade.pdb
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\Projeto Calcular Idade.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\Back End-1\Projeto Calcular Idade\obj\Debug\net7.0\ref\Projeto Calcular Idade.dll
