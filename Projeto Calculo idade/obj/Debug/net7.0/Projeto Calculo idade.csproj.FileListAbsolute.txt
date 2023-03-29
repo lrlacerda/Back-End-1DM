@@ -1,0 +1,15 @@
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\bin\Debug\net7.0\Projeto Calculo idade.exe
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\bin\Debug\net7.0\Projeto Calculo idade.deps.json
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\bin\Debug\net7.0\Projeto Calculo idade.runtimeconfig.json
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\bin\Debug\net7.0\Projeto Calculo idade.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\bin\Debug\net7.0\Projeto Calculo idade.pdb
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\Projeto Calculo idade.csproj.AssemblyReference.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\Projeto Calculo idade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\Projeto Calculo idade.AssemblyInfoInputs.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\Projeto Calculo idade.AssemblyInfo.cs
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\Projeto Calculo idade.csproj.CoreCompileInputs.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\Projeto Calculo idade.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\refint\Projeto Calculo idade.dll
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\Projeto Calculo idade.pdb
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\Projeto Calculo idade.genruntimeconfig.cache
+C:\Users\lribe\OneDrive\Área de Trabalho\Back-End-1DM\Projeto Calculo idade\obj\Debug\net7.0\ref\Projeto Calculo idade.dll
