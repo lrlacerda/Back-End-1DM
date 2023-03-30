@@ -14,4 +14,5 @@ int idade_anos = ano_atual - ano_nascimento;
 int idade_semanas = idade_anos * 52;
 
 // Exibe a idade em anos e semanas
-Console.WriteLine("A idade da pessoa é " + idade_anos + " anos (" + idade_semanas + " semanas)");
+Console.WriteLine("A idade da pessoa é " + idade_anos + " anos "  + idade_semanas + " semanas");
+Console.WriteLine($"A idade da pessoa é (idade_anos)  anos (idade_semanas)  semanas");

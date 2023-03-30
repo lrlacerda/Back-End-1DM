@@ -26,7 +26,7 @@ float altura = float.Parse(Console.ReadLine());
 
 float imc = (peso / ((float) Math.Pow(altura,2)));
 
-Console.WriteLine($"O Paciente", (nome) "tem imc igual à: ", (imc));
+// Console.WriteLine($"O Paciente", (nome) "tem imc igual à: ", (imc));
 
 Console.ForegroundColor = ConsoleColor.DarkGreen;
 Console.WriteLine($"Obrigado por usar nosso sistema!");
