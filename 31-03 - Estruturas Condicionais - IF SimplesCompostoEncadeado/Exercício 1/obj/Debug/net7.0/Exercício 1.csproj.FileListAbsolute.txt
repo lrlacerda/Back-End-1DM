@@ -1,0 +1,15 @@
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\bin\Debug\net7.0\Exercício 1.exe
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\bin\Debug\net7.0\Exercício 1.deps.json
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\bin\Debug\net7.0\Exercício 1.runtimeconfig.json
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\bin\Debug\net7.0\Exercício 1.dll
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\bin\Debug\net7.0\Exercício 1.pdb
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\Exercício 1.csproj.AssemblyReference.cache
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\Exercício 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\Exercício 1.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\Exercício 1.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\Exercício 1.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\Exercício 1.dll
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\refint\Exercício 1.dll
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\Exercício 1.pdb
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\Exercício 1.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\Back End-1\31-03 - Estruturas Condicionais - IF SimplesCompostoEncadeado\Exercício 1\obj\Debug\net7.0\ref\Exercício 1.dll
