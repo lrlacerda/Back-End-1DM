@@ -1,0 +1,15 @@
+C:\Users\32784630803\Desktop\menu de opções de bebidas\bin\Debug\net7.0\menu de opções de bebidas.exe
+C:\Users\32784630803\Desktop\menu de opções de bebidas\bin\Debug\net7.0\menu de opções de bebidas.deps.json
+C:\Users\32784630803\Desktop\menu de opções de bebidas\bin\Debug\net7.0\menu de opções de bebidas.runtimeconfig.json
+C:\Users\32784630803\Desktop\menu de opções de bebidas\bin\Debug\net7.0\menu de opções de bebidas.dll
+C:\Users\32784630803\Desktop\menu de opções de bebidas\bin\Debug\net7.0\menu de opções de bebidas.pdb
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\menu de opções de bebidas.csproj.AssemblyReference.cache
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\menu de opções de bebidas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\menu de opções de bebidas.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\menu de opções de bebidas.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\menu de opções de bebidas.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\menu de opções de bebidas.dll
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\refint\menu de opções de bebidas.dll
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\menu de opções de bebidas.pdb
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\menu de opções de bebidas.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\menu de opções de bebidas\obj\Debug\net7.0\ref\menu de opções de bebidas.dll
