@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\menu de opções de bebidas\\menu de opções de bebidas.csproj",
+      "projectUniqueName": "C:\\Users\\32784630803\\Desktop\\Back End-1\\menu de opções de bebidas\\menu de opções de bebidas.csproj",
       "projectName": "menu de opções de bebidas",
-      "projectPath": "C:\\Users\\32784630803\\Desktop\\menu de opções de bebidas\\menu de opções de bebidas.csproj",
+      "projectPath": "C:\\Users\\32784630803\\Desktop\\Back End-1\\menu de opções de bebidas\\menu de opções de bebidas.csproj",
       "packagesPath": "C:\\Users\\32784630803\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\32784630803\\Desktop\\menu de opções de bebidas\\obj\\",
+      "outputPath": "C:\\Users\\32784630803\\Desktop\\Back End-1\\menu de opções de bebidas\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\32784630803\\AppData\\Roaming\\NuGet\\NuGet.Config",
