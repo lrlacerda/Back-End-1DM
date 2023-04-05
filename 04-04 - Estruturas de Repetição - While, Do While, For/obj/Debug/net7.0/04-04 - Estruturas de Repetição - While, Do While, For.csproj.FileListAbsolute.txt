@@ -1,0 +1,15 @@
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\bin\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.exe
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\bin\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.deps.json
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\bin\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.runtimeconfig.json
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\bin\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.dll
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\bin\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.pdb
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.csproj.AssemblyReference.cache
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.dll
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\refint\04-04 - Estruturas de Repetição - While, Do While, For.dll
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.pdb
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\04-04 - Estruturas de Repetição - While, Do While, For.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\obj\Debug\net7.0\ref\04-04 - Estruturas de Repetição - While, Do While, For.dll
