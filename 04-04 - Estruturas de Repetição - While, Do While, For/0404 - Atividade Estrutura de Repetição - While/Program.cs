@@ -14,6 +14,8 @@ string nome = Console.ReadLine();
 
 Console.WriteLine("Bem vindo " + nome );
 
+// if (string.IsNullOrEmpty (nome)) outro modo de fazer o valor nulo
+
 while (nome == "")
 {
     Console.WriteLine("O nome não pode ser vazio.");

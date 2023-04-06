@@ -1,0 +1,15 @@
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\bin\Debug\net7.0\Exercicio.exe
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\bin\Debug\net7.0\Exercicio.deps.json
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\bin\Debug\net7.0\Exercicio.runtimeconfig.json
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\bin\Debug\net7.0\Exercicio.dll
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\bin\Debug\net7.0\Exercicio.pdb
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\Exercicio.csproj.AssemblyReference.cache
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\Exercicio.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\Exercicio.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\Exercicio.dll
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\refint\Exercicio.dll
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\Exercicio.pdb
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\Exercicio.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\Back End-1\04-04 - Estruturas de Repetição - While, Do While, For\Exercicio\obj\Debug\net7.0\ref\Exercicio.dll
