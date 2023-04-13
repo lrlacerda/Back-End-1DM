@@ -1,0 +1,5 @@
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 2\obj\Debug\net7.0\exercicio 2.csproj.AssemblyReference.cache
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 2\obj\Debug\net7.0\exercicio 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 2\obj\Debug\net7.0\exercicio 2.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 2\obj\Debug\net7.0\exercicio 2.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 2\obj\Debug\net7.0\exercicio 2.csproj.CoreCompileInputs.cache

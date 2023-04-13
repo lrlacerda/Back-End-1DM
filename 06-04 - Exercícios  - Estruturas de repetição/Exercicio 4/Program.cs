@@ -25,32 +25,41 @@
 
 
 
-        int totalSim = 0, totalNao = 0, totalMulheresSim = 0, totalHomens = 0, totalHomensNao = 0;
-        for (int i = 1; i <= 10; i++) {
-            Console.WriteLine("Pessoa " + i + ":");
-            Console.Write("Sexo (M/F): ");
-            char sexo = char.Parse(Console.ReadLine().ToUpper());
-            Console.Write("Resposta (S/N): ");
-            char resposta = char.Parse(Console.ReadLine().ToUpper());
-            if (resposta == 'S') {
-                totalSim++;
-                if (sexo == 'F') {
-                    totalMulheresSim++;
-                }
-            } else {
-                totalNao++;
-                if (sexo == 'M') {
-                    totalHomensNao++;
-                }
-            }
-            if (sexo == 'M') {
-                totalHomens++;
-            }
+int totalSim = 0, totalNao = 0, totalMulheresSim = 0, totalHomens = 0, totalHomensNao = 0;
+for (int i = 1; i <= 10; i++)
+{
+    Console.WriteLine("Pessoa " + i + ":");
+    char sexo = char.Parse(Console.ReadLine().ToUpper());
+    Console.Write("Sexo (M/F): ");
+    char resposta = char.Parse(Console.ReadLine().ToUpper());
+    Console.Write("Resposta (S/N): ");
+    if (resposta == 'S')
+    {
+        totalSim++;
+        if (sexo == 'F')
+        {
+            totalMulheresSim++;
         }
-        Console.WriteLine("Total de pessoas que responderam SIM: " + totalSim);
-        Console.WriteLine("Total de pessoas que responderam NÃO: " + totalNao);
-        Console.WriteLine("Total de mulheres que responderam SIM: " + totalMulheresSim);
-        Console.WriteLine("Porcentagem de homens que responderam NÃO: " + (totalHomensNao * 100.0 / totalHomens).ToString("F2") + "%");
+    }
+    else
+    {
+        totalNao++;
+        if (sexo == 'M')
+        {
+            totalHomensNao++;
+        }
+    }
+    if (sexo == 'M')
+    {
+        totalHomens++;
+    }
+
+}
+Console.WriteLine("Total de pessoas que responderam SIM: " + totalSim);
+Console.WriteLine("Total de pessoas que responderam NÃO: " + totalNao);
+Console.WriteLine("Total de mulheres que responderam SIM: " + totalMulheresSim);
+Console.WriteLine("Porcentagem de homens que responderam NÃO: " + (totalHomensNao * 100.0 / totalHomens).ToString("F2") + "%");
+
 
 
 
