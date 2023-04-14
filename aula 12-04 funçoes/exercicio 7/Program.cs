@@ -4,18 +4,32 @@
 // entre os 10 nomes lidos anteriormente (guardados no vetor), ou NÃO ACHEI caso contrário.
 
 
-string[] nomes = new string[10]; // vetor para armazenar os nomes
-for (int i = 0; i < 10; i++) // loop para ler os 10 nomes
+Console.WriteLine(@$"
+
+_________________________________________
+        Programa para procura 
+              de Nomes
+_________________________________________
+
+");
+
+// vetor para armazenar os nomes
+string[] nomes = new string[10];
+// loop para ler os 10 nomes 
+for (int i = 0; i < 10; i++) 
 {
     Console.Write("Digite o nome da pessoa " + (i + 1) + ": ");
-    nomes[i] = Console.ReadLine();
+    nomes[i] = Console.ReadLine().ToLower();
 }
 
 Console.Write("Digite o nome que deseja buscar: ");
-string nomeBusca = Console.ReadLine();
+string nomeBusca = Console.ReadLine().ToLower();
 
-bool nomeEncontrado = false; // variável para indicar se o nome foi encontrado
-for (int i = 0; i < 10; i++) // loop para buscar o nome no vetor
+// variável para indicar se o nome foi encontrado
+bool nomeEncontrado = false; 
+
+// loop para buscar o nome no vetor
+for (int i = 0; i < 10; i++) 
 {
     if (nomes[i] == nomeBusca)
     {
@@ -26,10 +40,14 @@ for (int i = 0; i < 10; i++) // loop para buscar o nome no vetor
 
 if (nomeEncontrado)
 {
+    Console.ForegroundColor = ConsoleColor.DarkBlue;
     Console.WriteLine($"Nome Encontrado"); // imprime a mensagem de sucesso se o nome foi encontrado
+    Console.ResetColor();
 }
 else
 {
-    Console.WriteLine($"NÃO Encontrado"); // imprime a mensagem de erro se o nome não foi encontrado
+    Console.ForegroundColor = ConsoleColor.DarkRed;
+    Console.WriteLine($"Nome NÃO Encontrado"); // imprime a mensagem de erro se o nome não foi encontrado
+    Console.ResetColor();
 }
 

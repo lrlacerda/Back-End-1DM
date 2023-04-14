@@ -2,6 +2,15 @@
 // 15 números, o algoritmo deve escrever esses 15 números lidos na ordem inversa da qual foi
 // declarado.
 
+Console.WriteLine(@$"
+
+________________________________________
+        Programa para imprimir 
+         os numeros na ordem 
+              INVERSA
+________________________________________
+
+");
 
 
 int[] numeros = new int[15]; // vetor para armazenar os números
