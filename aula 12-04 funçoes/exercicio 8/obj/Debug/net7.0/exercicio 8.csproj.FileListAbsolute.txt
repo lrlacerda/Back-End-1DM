@@ -1,0 +1,15 @@
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\bin\Debug\net7.0\exercicio 8.exe
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\bin\Debug\net7.0\exercicio 8.deps.json
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\bin\Debug\net7.0\exercicio 8.runtimeconfig.json
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\bin\Debug\net7.0\exercicio 8.dll
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\bin\Debug\net7.0\exercicio 8.pdb
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\exercicio 8.csproj.AssemblyReference.cache
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\exercicio 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\exercicio 8.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\exercicio 8.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\exercicio 8.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\exercicio 8.dll
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\refint\exercicio 8.dll
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\exercicio 8.pdb
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\exercicio 8.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\Back End-1\aula 12-04 funçoes\exercicio 8\obj\Debug\net7.0\ref\exercicio 8.dll
