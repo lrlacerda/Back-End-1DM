@@ -12,14 +12,15 @@
 
 const string senha = "123456";
 
+
 // Solicitando a senha ao usuário
 Console.Write("Digite a senha de acesso: ");
 string senhaDigitada = Console.ReadLine();
 
-// Verificando se a senha está correta
+// Verificando se a senha está correta. Terminar de fazer o while para pedir a senha novamente 
 if (senhaDigitada != senha)
 {
-    Console.WriteLine("Senha incorreta. O programa será encerrado.");
+    Console.WriteLine("Senha incorreta, digite novamente: ");
     return;
 }
 
@@ -60,17 +61,17 @@ static void CadastrarPassagem()
     Console.WriteLine("\n==== CADASTRO DE PASSAGEM ====");
 
     // Definindo o tamanho máximo do array de passageiros
-    const int maxPassageiros = 5;
+    
 
     // Criando os arrays para armazenar os dados dos passageiros
-    string[] nomes = new string[maxPassageiros];
-    string[] origens = new string[maxPassageiros];
-    string[] destinos = new string[maxPassageiros];
-    DateTime[] datas = new DateTime[maxPassageiros];
+    string[] nomes = new string[5];
+    string[] origens = new string[5];
+    string[] destinos = new string[5];
+    DateTime[] datas = new DateTime[5];
 
     // Solicitando os dados dos passageiros
     int indice = 0;
-    while (indice < maxPassageiros)
+    while (indice < 5)
     {
         Console.Write($"\nDigite o nome do {indice + 1}º passageiro (ou digite SAIR para encerrar): ");
         string nome = Console.ReadLine();
