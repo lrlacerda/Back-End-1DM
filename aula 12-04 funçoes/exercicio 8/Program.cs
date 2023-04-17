@@ -21,7 +21,7 @@ for (int i = 0; i < 15; i++) // loop para ler os 15 números
     numeros[i] = int.Parse(Console.ReadLine());
 }
 
-Console.WriteLine("Números na ordem inversa:"); 
+Console.WriteLine("\nNúmeros na ordem inversa:"); 
 for (int i = 14; i >= 0; i--) // loop para imprimir os números na ordem inversa
 {
     Console.ForegroundColor = ConsoleColor.DarkMagenta;
