@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Aplicação Agencia de Turismo/1.0.0": {
+        "runtime": {
+          "Aplicação Agencia de Turismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aplicação Agencia de Turismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

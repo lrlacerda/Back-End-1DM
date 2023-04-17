@@ -1,0 +1,15 @@
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\Aplicação Agencia de Turismo.csproj.AssemblyReference.cache
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\Aplicação Agencia de Turismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\Aplicação Agencia de Turismo.AssemblyInfoInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\Aplicação Agencia de Turismo.AssemblyInfo.cs
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\Aplicação Agencia de Turismo.csproj.CoreCompileInputs.cache
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\bin\Debug\net7.0\Aplicação Agencia de Turismo.exe
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\bin\Debug\net7.0\Aplicação Agencia de Turismo.deps.json
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\bin\Debug\net7.0\Aplicação Agencia de Turismo.runtimeconfig.json
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\bin\Debug\net7.0\Aplicação Agencia de Turismo.dll
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\bin\Debug\net7.0\Aplicação Agencia de Turismo.pdb
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\Aplicação Agencia de Turismo.dll
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\refint\Aplicação Agencia de Turismo.dll
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\Aplicação Agencia de Turismo.pdb
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\Aplicação Agencia de Turismo.genruntimeconfig.cache
+C:\Users\32784630803\Desktop\Back End-1\Aplicação Agencia de Turismo\obj\Debug\net7.0\ref\Aplicação Agencia de Turismo.dll
