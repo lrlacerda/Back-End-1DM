@@ -60,8 +60,6 @@ static void CadastrarPassagem()
 {
     Console.WriteLine("\n==== CADASTRO DE PASSAGEM ====");
 
-    // Definindo o tamanho máximo do array de passageiros
-    
 
     // Criando os arrays para armazenar os dados dos passageiros
     string[] nomes = new string[5];
