@@ -15,6 +15,19 @@
 
 using Projeto___Sistema_de_Produtos;
 
+Console.ForegroundColor = ConsoleColor.DarkMagenta;
+Console.WriteLine(@$"
+
+**********************************************
+
+                Seja Bem Vindo!
+        Sistema para Cadastro de Produtos
+
+**********************************************
+
+");
+Console.ResetColor();
+
 
 GerenciadorProdutos gerenciador = new GerenciadorProdutos();
 int opcao = -1;
@@ -33,7 +46,7 @@ while (opcao != 0)
             gerenciador.ListarProdutos();
             break;
         case 0:
-            Console.WriteLine("\nPrograma encerrado.");
+            Console.WriteLine("\nPrograma encerrado.\n");
             break;
         default:
             Console.ForegroundColor = ConsoleColor.Red;
